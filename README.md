@@ -145,7 +145,7 @@
 </h2>
 
 
-## 📊 1.
+## 📊 1. Счетчик с прокруткой
 
 <div align="center">
   <img src="./media/Tutorial/Article_1/loser_statistics.gif" alt="statistics" width="35%">
@@ -418,23 +418,29 @@ Image_Name
 </h2>
 
 
-## 📊 2.
+## 📊 2. Посимвольное появление текста
 
 <div align="center">
-  <img src="./media/Tutorial/Article_2/Info_adding_text.gif" alt="Info_adding_text" width="35%">
+  <img src="./media/Tutorial/Article_2/Info_adding_text.gif" alt="Info_adding_text" width="45%">
 </div>
 
 <details> 
     <summary>⚙️ Развернуть описание</summary>
 
 ---
+
+## 1
+
 <div align="center">
   <img src="./media/Tutorial/Article_2/adding_text_1.png" alt="adding_text_1" width="70%">
 </div>
 
+## 2
+
 <div align="center">
-  <img src="./media/Tutorial/Article_2/adding_text_2.png" alt="adding_text_2" width="70%">
+  <img src="./media/Tutorial/Article_2/adding_text_2.png" alt="adding_text_2" width="90%">
 </div>
+
 ---
 
 </details>
