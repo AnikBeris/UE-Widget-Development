@@ -216,6 +216,8 @@ DT_RT_Image_Weapon
 RichText_imadge_Weapon
 ```
 
+---
+
 ## Работа с `Data Table`
 
 1. Открываем `DT_RT_Text` и расписываем конфиги
@@ -240,6 +242,7 @@ red
 ```
 </details> 
 
+---
 
 2. Открываем `DT_RT_Image` и расписываем конфиги
 
@@ -268,6 +271,7 @@ rifle
 
 </details> 
 
+---
 
 3. Открываем декоратор `RichText_image` и назначаем в нём `DT_RT_Image` для того что бы мы смогли его использовать из текста.
 
@@ -317,6 +321,12 @@ RichText
 
 <div align="center">
   <img src="./media/Tutorial/Article_1/WB_UX_Dead_param.png" alt="WB_UX_Dead_param" width="50%">
+</div>
+
+- Включаем параметры
+
+<div align="center">
+  <img src="./media/Tutorial/Article_1/WB_UX_Dead_param_2.png" alt="WB_UX_Dead_param" width="50%">
 </div>
 
 <details> 
