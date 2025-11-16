@@ -10,16 +10,16 @@ name: Build README from parts
 on:
   workflow_dispatch: # ручной запуск
 
-  schedule:
-    - cron: '10 9 * * *'  # каждый день в 12:00 UTC
+#  schedule:
+#    - cron: '10 9 * * *'  # каждый день в 12:00 UTC
     # Для запуска в 12:00 по Москве → заменить на "0 9 * * *"
 
 
   push:
     paths:
       - "$README_PARTS/*" # срабатывает при изменении исходных файлов
-#      - ".github/README_PARTS/*"
-#      - ".github/README_PARTS/5.MAIN_Article_*.md"
+      - ".github/README_PARTS/*"
+      - ".github/README_PARTS/5.MAIN_Article_*.md"
 
 
 
