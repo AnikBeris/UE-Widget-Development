@@ -402,6 +402,33 @@ Image_Name
   <img src="./media/Tutorial/Article_1/WB_UI_Menu.png" alt="WB_UI_Menu" width="70%">
 </div>
 
+
+---
+
+
+</details>
+
+<div align="center">
+  <img src="./media/image0.gif" alt="SPACER" width="90%">
+</div>
+
+
+<h2 align="center">
+  <a href="#-содержание">⬆️ Наверх</a> 
+</h2>
+
+
+## 📊 2.
+
+<div align="center">
+  <img src="./media/Tutorial/Article_2/loser_statistics.gif" alt="statistics" width="35%">
+</div>
+
+<details> 
+    <summary>⚙️ Развернуть описание</summary>
+
+---
+
 ---
 
 </details>
