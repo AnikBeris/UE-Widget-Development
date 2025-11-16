@@ -205,7 +205,11 @@ DT_RT_Image_Weapon
 4. после чего создаём блупринт `Rich Text Block Image Decorator`
 
 <div align="center">
-  <img src="./media/Tutorial/Article_1/RichText_Block_Image_Decorator.png" alt="RichText_Image_Decorator" width="10%">
+  <img src="./media/Tutorial/Article_1/RichText_imadge_Decorator.png" alt="RichText_image_Decorator" width="10%">
+</div>
+
+<div align="center">
+  <img src="./media/Tutorial/Article_1/RichText_Block_Image_Decorator.png" alt="RichText_Image_Decorator" width="50%">
 </div>
 
 ```info
