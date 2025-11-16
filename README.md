@@ -421,14 +421,20 @@ Image_Name
 ## 📊 2.
 
 <div align="center">
-  <img src="./media/Tutorial/Article_2/loser_statistics.gif" alt="statistics" width="35%">
+  <img src="./media/Tutorial/Article_2/Info_adding_text.gif" alt="Info_adding_text" width="35%">
 </div>
 
 <details> 
     <summary>⚙️ Развернуть описание</summary>
 
 ---
+<div align="center">
+  <img src="./media/Tutorial/Article_2/adding_text_1.png" alt="adding_text_1" width="70%">
+</div>
 
+<div align="center">
+  <img src="./media/Tutorial/Article_2/adding_text_2.png" alt="adding_text_2" width="70%">
+</div>
 ---
 
 </details>
